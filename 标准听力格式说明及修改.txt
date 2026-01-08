@@ -1,0 +1,303 @@
+Z1:现在是英语听力试音时间，您将听到以下对话，
+F:Housekeeping,may I come in?
+M: Come in,please.
+F:Sorry to disturb you, sir. I’d like to clean the room? Can I do it now?
+M:Well , I’m expecting some friend. Could you come back later?
+F:Certainly, what time would be convenient?
+M:What about 11 am?
+F:No problem.
+Z1: 听力试音到此结束，听力考试开始。 
+一、听录音，选择正确的数字。每题读两遍，每题停顿3秒。
+@rt2[ 1. 
+ 5:30
+2. 
+ 7:20
+3. 
+ 3:45
+4. 
+ 2:55   
+5. 
+ 11:14]
+二、听录音，写出正确的答案。每题读两遍，每题停顿3秒。
+@rt2[1. 
+Mr. Anderson is 59 years old.  
+2. 
+My brother is in Class 5, Grade 1. 
+3. 
+They have 18 letters every week.  
+4. 
+The manager works 13hours a day. 
+5. 
+There are 48 students in his class. 
+6. 
+Her room number is 991. 
+7. 
+In Tom’s class, 13 pupils like milk, 11 like beef, and only 3like fruit. 
+8. 
+We have waited for 4 hours.  
+9. 
+She lives at 51 Park Street.  
+10. 
+My address is 43 College Road. ]
+三、听录音，根据通告填好正确的名字。每题读两遍，每题停顿3秒。
+@rt2[1 . 
+F:Sorry to disturb you,Linda Brooks. May I use your bike?
+2.
+F:Attention, please. Mr Alfred Robinson, someone is waiting for you at the information desk.
+3. 
+F: What your name? M:My name is Paul Sanders
+4. 
+F: Who is there? M:He is Henry Johnson.
+5. 
+F:May I speak to Mrs. Helen Young? M:Sorry, she is not here.]
+四、听录音，选择正确的单词。每题读两遍，每题停顿3秒。
+@rt2[1. 
+chef   
+2. 
+cookery class    
+3. 
+cafe  
+4. 
+open-minded 
+5. 
+go jogging 
+6. 
+yellow
+7. 
+Wednesday  
+8. 
+dormitory  
+9. 
+volunteer  
+10. 
+high-speed train   ]
+五、听录音，选出合适的答语，每题读三遍。每题停顿3秒。
+@rt3[1. 
+Thank you.
+2. 
+What do you do after class? 
+3. 
+How do you get to the restaurant?
+4. 
+What do you think of your teachers? 
+5. 
+How did you become friends? ]
+六、听录音，完成人物的活动内容。每题读三遍。每题停顿3秒。
+@rt2[F: Amy usually gets up at 6:30 in the morning. Then she jogs for about 30 minutes. She usually has breakfast at 7:30. She often has milk,an egg and some bread for breakfast. Jack often watches TV until midnight. He usually gets up late. He often eats popcorn and fast food. He never plays sports or does any outdoor activities.]
+
+Z1:现在是英语听力试音时间，您将听到以下对话，
+F:Housekeeping,may I come in?
+M: Come in,please.
+F:Sorry to disturb you, sir. I’d like to clean the room? Can I do it now?
+M:Well , I’m expecting some friend. Could you come back later?
+F:Certainly, what time would be convenient?
+M:What about 11 am?
+F:No problem.
+Z1: 听力试音到此结束，听力考试开始。 
+Z1:@1 一、听录音，选择正确的数字。每题读两遍，每题停顿3秒。
+F:@3 @DD 1.
+ 5:30
+F:@DD 1.
+ 5:30
+F:@3 @DD 2.
+ 7:20
+F:@DD 2.
+ 7:20
+F:@3 @DD 3.
+ 3:45
+F:@DD 3.
+ 3:45
+F:@3 @DD 4.
+ 2:55   
+F:@DD 4.
+ 2:55
+F:@3 @DD 5.
+ 11:14
+F:@DD 5.
+ 11:14
+Z1:@2 二、听录音，写出正确的答案。每题读两遍，每题停顿3秒。
+F:@3 @DD 1.
+Mr. Anderson is 59 years old.  
+F:@DD 1.
+Mr. Anderson is 59 years old.
+F:@3 @DD 2.
+My brother is in Class 5, Grade 1. 
+F:@DD 2.
+My brother is in Class 5, Grade 1.
+F:@3 @DD 3.
+They have 18 letters every week.  
+F:@DD 3.
+They have 18 letters every week.
+F:@3 @DD 4.
+The manager works 13hours a day. 
+F:@DD 4.
+The manager works 13hours a day.
+F:@3 @DD 5.
+There are 48 students in his class. 
+F:@DD 5.
+There are 48 students in his class.
+F:@3 @DD 6.
+Her room number is 9 91. 
+F:@DD 6.
+Her room number is 9 91.
+F:@3 @DD 7.
+In Tom’s class, 13 pupils like milk, 11 like beef, and only 3like fruit. 
+F:@DD 7.
+In Tom’s class, 13 pupils like milk, 11 like beef, and only 3like fruit.
+F:@3 @DD 8.
+We have waited for 4 hours.  
+F:@DD 8.
+We have waited for 4 hours.
+F:@3 @DD 9.
+She lives at 51 Park Street.  
+F:@DD 9.
+She lives at 51 Park Street.
+F:@3 @DD 10.
+My address is 43 College Road. 
+F:@DD 10.
+My address is 43 College Road.
+Z1:@3 三、听录音，根据通告填好正确的名字。每题读两遍，每题停顿3秒。
+F:@3 @DD 1 .
+F:@1Sorry to disturb you,Linda Brooks. May I use your bike?
+F:@DD 1 .
+F:Sorry to disturb you,Linda Brooks. May I use your bike?
+F:@3 @DD 2.
+F:@1Attention, please. Mr Alfred Robinson, someone is waiting for you at the information desk.
+F:@DD 2.
+F:Attention, please. Mr Alfred Robinson, someone is waiting for you at the information desk.
+F:@3 @DD 3.
+F:@1 What your name? M:My name is Paul Sanders
+F:@DD 3.
+F: What your name? M:My name is Paul Sanders
+F:@3 @DD 4.
+F:@1 Who is there? M:He is Henry Johnson.
+F:@DD 4.
+F: Who is there? M:He is Henry Johnson.
+F:@3 @DD 5.
+F:@1May I speak to Mrs. Helen Young? M:Sorry, she is not here.
+F:@DD 5.
+F:May I speak to Mrs. Helen Young? M:Sorry, she is not here.
+Z1:@4 四、听录音，选择正确的单词。每题读两遍，每题停顿3秒。
+F:@3 @DD 1.
+chef   
+F:@DD 1.
+chef
+F:@3 @DD 2.
+cookery class    
+F:@DD 2.
+cookery class
+F:@3 @DD 3.
+cafe  
+F:@DD 3.
+cafe
+F:@3 @DD 4.
+open-minded 
+F:@DD 4.
+open-minded
+F:@3 @DD 5.
+go jogging 
+F:@DD 5.
+go jogging
+F:@3 @DD 6.
+yellow
+F:@DD 6.
+yellow
+F:@3 @DD 7.
+Wednesday  
+F:@DD 7.
+Wednesday
+F:@3 @DD 8.
+dormitory  
+F:@DD 8.
+dormitory
+F:@3 @DD 9.
+volunteer  
+F:@DD 9.
+volunteer
+F:@3 @DD 10.
+high-speed train   
+F:@DD 10.
+high-speed train
+Z1:@5 五、听录音，选出合适的答语，每题读三遍。每题停顿3秒。
+F:@3 @DD 1.
+Thank you.
+F:@DD 1.
+Thank you.
+F:@DD 1.
+Thank you.
+F:@3 @DD 2.
+What do you do after class? 
+F:@DD 2.
+What do you do after class?
+F:@DD 2.
+What do you do after class?
+F:@3 @DD 3.
+How do you get to the restaurant?
+F:@DD 3.
+How do you get to the restaurant?
+F:@DD 3.
+How do you get to the restaurant?
+F:@3 @DD 4.
+What do you think of your teachers? 
+F:@DD 4.
+What do you think of your teachers?
+F:@DD 4.
+What do you think of your teachers?
+F:@3 @DD 5.
+How did you become friends? 
+F:@DD 5.
+How did you become friends?
+F:@DD 5.
+How did you become friends?
+Z1:@6 六、听录音，完成人物的活动内容。每题读三遍。每题停顿3秒。
+F:@3 @DD
+F: Amy usually gets up at 6:30 in the morning. Then she jogs for about 30 minutes. She usually has breakfast at 7:30. She often has milk,an egg and some bread for breakfast. Jack often watches TV until midnight. He usually gets up late. He often eats popcorn and fast food. He never plays sports or does any outdoor activities.
+F:@DD
+F: Amy usually gets up at 6:30 in the morning. Then she jogs for about 30 minutes. She usually has breakfast at 7:30. She often has milk,an egg and some bread for breakfast. Jack often watches TV until midnight. He usually gets up late. He often eats popcorn and fast food. He never plays sports or does any outdoor activities.
+
+
+
+按要求把@10替换成@3, 由于你的时间如5:30 ， 软件会认为5：是一个角色 ，所以，要修改下，就是把生成的这段：
+F:@10 @DD 1.
+5:30
+F:@DD 1.
+5:30
+F:@10 @DD 2.
+7:20
+F:@DD 2.
+7:20
+F:@10 @DD 3.
+3:45
+F:@DD 3.
+3:45
+F:@10 @DD 4.
+2:55   
+F:@DD 4.
+2:55
+F:@10 @DD 5.
+11:14
+F:@DD 5.
+11:14  
+改为时间不要顶格：
+F:@3 @DD 1.
+ 5:30
+F:@DD 1.
+ 5:30
+F:@3 @DD 2.
+ 7:20
+F:@DD 2.
+ 7:20
+F:@3 @DD 3.
+ 3:45
+F:@DD 3.
+ 3:45
+F:@3 @DD 4.
+ 2:55   
+F:@DD 4.
+ 2:55
+F:@3 @DD 5.
+ 11:14
+F:@DD 5.
+ 11:14
+ 
+ 最后一段因没有角色，最好要加一个角色 。还有记号如991， 要改成9 91 或9 9 1。 因为数字它会按数字几百几千几百万来读。
