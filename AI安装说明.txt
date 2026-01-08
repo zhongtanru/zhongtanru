@@ -1,0 +1,41 @@
+
+
+安装AI说明：
+
+
+
+
+操作说明：
+1. https://ollama.com，下载安装OllamaSetup.exe。 双击开始安装，点下一步下一步一直安装到结束。
+2. 用鼠标指向开始菜单， 就是电脑的左下角，有个微软的图标，四片窗样子， 指向那图标，点鼠标右键， 点运行菜单，在输入文本框里输入cmd, 点确实，出来一个黑黑的窗口，在光标闪烁处，依次分别输入：
+ollama run deepseek-v3.1:671b-cloud
+ollama run gpt-oss:20b-cloud
+ollama run gpt-oss:120b-cloud
+ollama run kimi-k2:1t-cloud
+ollama run qwen3-coder:480b-cloud
+ollama run glm-4.6:cloud
+按回车键（Enter）,等待自行下载安装到100%。 这些是云AI模型，不占用电脑的资源，速度快，稳定。
+
+
+
+
+下面是离线模型，是要占用电脑资源的。
+
+如果你的电脑的内存是8-16G，可以考虑下载以下两个：
+
+https://ollama.com/library/granite4:micro
+
+ollama run granite4:micro
+
+
+https://ollama.com/library/granite4:tiny-h
+
+ollama run granite4:tiny-h
+
+
+输入：
+ollama run granite4:micro 
+或
+ollama run granite4:tiny-h 后，按回车键（Enter）,等待自行下载安装到100%。
+
+输入那命令也可以直接在这里复制，然后在黑窗口里点一下鼠标右键就自行贴进去了，然后再按个回车键就行了。
