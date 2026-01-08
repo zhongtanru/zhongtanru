@@ -1,0 +1,8 @@
+本软件使用了 edge-tts 库（遵循 GNU Lesser General Public License v3 协议），该库位于安装目录下的 _internal/edge_tts 文件夹中。
+【开源库致谢】
+本软件使用了以下开源项目：
+* TTS引擎: edge-tts (MIT), kokoro-onnx (MIT), kokoro model (Apache 2.0)
+* 音频处理: NumPy, SciPy, sounddevice, soundfile (BSD/MIT), ffmpeg (LGPLv2.1)
+* 系统交互: ollama (MIT), pyperclip, pywin32 (BSD/PSF)
+
+Copyright © 2025 Haodu (钟钦恒).
